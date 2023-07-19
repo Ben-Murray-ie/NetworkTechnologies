@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ben
+ *
+ */
+module ChatClient {
+}
