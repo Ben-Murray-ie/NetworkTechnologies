@@ -2,8 +2,6 @@
  
 Network Technologies Project - A chat server & client written in Java.
 
-Demonstration of Server and multiple clients in operation. Server handles multiple client connections simultaneously using threads.
-
 This project was intended to demonstrate how to use the Socket class in Java to communicate over networks. The arrangement consists of two programs, a server and a client. The server program creates a server socket and listens on a designated port for incoming connections from clients. The server program uses threads to facilitate multiple chat clients simultaneously. Upon entering the chat, clients are prompted to enter a username, then they can transmit messages via the server. When a user wants to leave the chat, they can use the command "!quit" to exit, and other users are notified.
 
 ---
